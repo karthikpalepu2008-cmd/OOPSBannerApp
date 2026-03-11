@@ -1,5 +1,11 @@
-public class OOPSBannerApp{
-public static void main(String[] args){
-System.out.println("OOPS");
-}
+class Oopsuc2 {
+    public static void main(String[] args) {
+    System.out.println("  ***  "+"  ***  "+"******"+" ****** ");
+	System.out.println(" *   * "+" *   * "+"*    *"+" *      ");  
+	System.out.println(" *   * "+" *   * "+"*    *"+" *      ");
+	System.out.println(" *   * "+" *   * "+"******"+" ****** ");
+	System.out.println(" *   * "+" *   * "+"*     "+"      * ");
+	System.out.println(" *   * "+" *   * "+"*     "+"      * ");
+	System.out.println("  ***  "+"  ***  "+"*     "+" ****** "); 
+    }
 }
